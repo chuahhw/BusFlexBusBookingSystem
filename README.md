@@ -5,7 +5,9 @@ This repository contains a Bus Booking System, developed as part of my Database 
 User registration & authentication
 Bus schedule management
 Seat reservation system
-Payment integration (if applicable)
+Payment integration
 Admin panel for managing bookings and schedules
+
+
 🔹 Tech Stack:
 Backend: MySQL (Database)
