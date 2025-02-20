@@ -4,18 +4,21 @@
 
 This repository contains a Bus Booking System, developed as part of my Database Management course project. The system is designed to facilitate online bus ticket reservations, ensuring efficient seat management and user-friendly booking operations.
 
-<ul>🔹 Features:
-<li>User registration & authentication </li>
-<li>Bus schedule management</li>
-<li>Seat reservation system</li>
-<li>Payment integration</li>
-<li>Admin panel for managing bookings and schedules</li>
+<ul>
+  🔹 Features:
+  <li>User registration & authentication </li>
+  <li>Bus schedule management</li>
+  <li>Seat reservation system</li>
+  <li>Payment integration</li>
+  <li>Admin panel for managing bookings and schedules</li>
 </ul>
 
 
-<ul>🔹 Tech Stack:
-Backend: MySQL (Database)
+<ul>
+  🔹 Tech Stack:
+  Backend: MySQL (Database)
 </ul>
 
+# Report
 [Database Phase 3 Report (3).pdf](https://github.com/user-attachments/files/18879721/Database.Phase.3.Report.3.pdf)
 
