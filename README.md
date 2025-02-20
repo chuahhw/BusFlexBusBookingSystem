@@ -20,5 +20,6 @@ This repository contains a Bus Booking System, developed as part of my Database 
 </ul>
 
 # Report
-[Database Phase 3 Report (3).pdf](https://github.com/user-attachments/files/18879721/Database.Phase.3.Report.3.pdf)
+<a href= "https://github.com/user-attachments/files/18879721/Database.Phase.3.Report.3.pdf">Report.pdf</a>
+
 
